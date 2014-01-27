@@ -1,0 +1,14 @@
+-*resharper.user
+*.ReSharper
+_ReSharper.*/
+*.user
+*.suo
+*.cache
+[Bb]in/
+[Oo]bj/
+*.aux
+*.log
+*.toc
+StyleCop.Cache
+*.vs10x
+
